@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\final-aprobado-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|solutionrelative:final-aprobado-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\FINAL-APROBADO-1.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\final-aprobado-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\FINAL-APROBADO-1.csproj|solutionrelative:final-aprobado-1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\final-aprobado-1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|solutionrelative:final-aprobado-1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\final-aprobado-1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|solutionrelative:final-aprobado-1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B36CEC-3D9A-4DFD-BD06-141D2B2C8436}|BLL\\BLL.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\bll\\huespedbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17B36CEC-3D9A-4DFD-BD06-141D2B2C8436}|BLL\\BLL.csproj|solutionrelative:bll\\huespedbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\be\\isujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|solutionrelative:be\\isujeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\be\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|solutionrelative:be\\iobservador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972484A-166E-4CD8-BB1F-8911D5DE4B7D}|DAL\\DAL.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\dal\\huespeddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972484A-166E-4CD8-BB1F-8911D5DE4B7D}|DAL\\DAL.csproj|solutionrelative:dal\\huespeddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68768A9A-41B2-45B8-BD1C-8EEA2786BCF2}|MPP\\MPP.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\mpp\\huespedmpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68768A9A-41B2-45B8-BD1C-8EEA2786BCF2}|MPP\\MPP.csproj|solutionrelative:mpp\\huespedmpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972484A-166E-4CD8-BB1F-8911D5DE4B7D}|DAL\\DAL.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\dal\\singletondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972484A-166E-4CD8-BB1F-8911D5DE4B7D}|DAL\\DAL.csproj|solutionrelative:dal\\singletondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\be\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|solutionrelative:be\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\final-aprobado-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC4849B-722C-4457-A059-5C4A76555065}|FINAL-APROBADO-1\\UI.csproj|solutionrelative:final-aprobado-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\be\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|solutionrelative:be\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\be\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|solutionrelative:be\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|e:\\facultad 2025\\segundocuatrimestre\\das\\final-aprobado-1\\be\\iabm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7C8819-6867-46F3-99A2-BAEDFFDCFD06}|BE\\BE.csproj|solutionrelative:be\\iabm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISujeto.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\ISujeto.cs",
+              "RelativeDocumentMoniker": "BE\\ISujeto.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\ISujeto.cs",
+              "RelativeToolTip": "BE\\ISujeto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:47:04.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IObservador.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\IObservador.cs",
+              "RelativeDocumentMoniker": "BE\\IObservador.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\IObservador.cs",
+              "RelativeToolTip": "BE\\IObservador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:46:31.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\UserControl1.cs",
+              "RelativeDocumentMoniker": "FINAL-APROBADO-1\\UserControl1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\UserControl1.cs",
+              "RelativeToolTip": "FINAL-APROBADO-1\\UserControl1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:46:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\UserControl1.cs",
+              "RelativeDocumentMoniker": "FINAL-APROBADO-1\\UserControl1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FINAL-APROBADO-1\\UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:45:26.024Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\Program.cs",
+              "RelativeDocumentMoniker": "FINAL-APROBADO-1\\Program.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\Program.cs",
+              "RelativeToolTip": "FINAL-APROBADO-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:16:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\Form1.cs",
+              "RelativeDocumentMoniker": "FINAL-APROBADO-1\\Form1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\Form1.cs*",
+              "RelativeToolTip": "FINAL-APROBADO-1\\Form1.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv1wAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:08:37.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HuespedDAL.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\DAL\\HuespedDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HuespedDAL.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\DAL\\HuespedDAL.cs",
+              "RelativeToolTip": "DAL\\HuespedDAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:56:35.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IABM.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\IABM.cs",
+              "RelativeDocumentMoniker": "BE\\IABM.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\IABM.cs",
+              "RelativeToolTip": "BE\\IABM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:52:23.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\Reserva.cs",
+              "RelativeDocumentMoniker": "BE\\Reserva.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\Reserva.cs",
+              "RelativeToolTip": "BE\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:50:36.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Huesped.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\Huesped.cs",
+              "RelativeDocumentMoniker": "BE\\Huesped.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\Huesped.cs",
+              "RelativeToolTip": "BE\\Huesped.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:49:45.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SingletonDAL.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\DAL\\SingletonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SingletonDAL.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\DAL\\SingletonDAL.cs",
+              "RelativeToolTip": "DAL\\SingletonDAL.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAjwDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:47:20.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HuespedMPP.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\MPP\\HuespedMPP.cs",
+              "RelativeDocumentMoniker": "MPP\\HuespedMPP.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\MPP\\HuespedMPP.cs",
+              "RelativeToolTip": "MPP\\HuespedMPP.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:47:08.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\Habitacion.cs",
+              "RelativeDocumentMoniker": "BE\\Habitacion.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BE\\Habitacion.cs",
+              "RelativeToolTip": "BE\\Habitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:46:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HuespedBLL.cs",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BLL\\HuespedBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HuespedBLL.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\BLL\\HuespedBLL.cs",
+              "RelativeToolTip": "BLL\\HuespedBLL.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:46:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\Form1.cs",
+              "RelativeDocumentMoniker": "FINAL-APROBADO-1\\Form1.cs",
+              "ToolTip": "E:\\facultad 2025\\SegundoCuatrimestre\\DAS\\FINAL-APROBADO-1\\FINAL-APROBADO-1\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FINAL-APROBADO-1\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T02:46:10.089Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
